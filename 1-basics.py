@@ -1,5 +1,8 @@
 # import numpy as np
 
+# Note! remember through out the crash course
+# np arrays behaves like matrix 
+
 # return current version of numpy you're using
 # print(np.__version__)
 
@@ -30,7 +33,7 @@
 
 # # Some Mathematical operations between Arrays
 # # a = [1, 2, 3]
-# b = [4, 5, 6]
+# b = np.array([4, 5, 6])
 # print(b + a)
 # print(b - a)
 # print(b * a)
