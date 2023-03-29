@@ -9,7 +9,7 @@
 # # creates 1-d array
 # a = np.array([1,2,3])
 # print(a)
-# # return array shape in (columns, rows)
+# # return array shape in (rows, columns)
 # print(a.shape)
 # # return data type
 # print(a.dtype)
