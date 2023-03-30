@@ -1,4 +1,4 @@
-import numpy as np
+# import numpy as np
 
 # # 1-Dimensional Array
 # a = np.array([1, 2, 3])
@@ -16,7 +16,7 @@ import numpy as np
 # print(c.ndim)
 
 # example array for next operations
-a = np.array([[1, 2, 3], [4, 5, 6]])
+# a = np.array([[1, 2, 3], [4, 5, 6]])
 
 # # extract values from multi-dimensional array
 # print(a[0][0]) # => 1
